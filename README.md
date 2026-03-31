@@ -12,4 +12,4 @@ I created a GitHub repository, initialized and connected my local project folder
 - Update README with workflow summary and video link
 
 ## Video Link
-[Add your unlisted YouTube or Vimeo link here]
+[https://youtu.be/oUcw3pOkCI8]
